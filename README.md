@@ -1,4 +1,5 @@
-![My Banner](https://github.com/yohan799/yohan799/blob/main/gojo.jpg)
+## Hello and Welcome to My Github Profile
+![My Banner](https://github.com/yohan799/yohan799/blob/main/banner.png)
 
 
 <!--

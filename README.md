@@ -1,5 +1,16 @@
 ## Hello and Welcome to My Github Profile
-<img src="sukuna.jpeg" alt="Profile Picture" width="200px" height="200px"/>
+<!doctype html>
+<html>
+  <head>
+    <style>
+      body{
+        background-image:url("sukuna.jpeg");
+        background-postion: cover;
+        bacground-repeat: no-repeat;
+        }
+    </style>
+  </head>
+</html>
 
 
 <!--

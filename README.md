@@ -1,4 +1,4 @@
-![My Banner](https://github.com/yohan-g/yohan-g/blob/main/banner.png)
+![My Banner](https://github.com/yohan799/yohan799/blob/main/gojo.jpg)
 
 
 <!--

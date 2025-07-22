@@ -1,5 +1,5 @@
 ## Hello and Welcome to My Github Profile
-![My Banner](https://github.com/yohan799/yohan799/blob/main/banner.png)
+<img src="sukuna.jpg" alt="Profile Picture" width="200px" height="200px"/>
 
 
 <!--

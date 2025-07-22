@@ -1,5 +1,5 @@
 ## Hello and Welcome to My Github Profile
-<img src="sukuna.jpg" alt="Profile Picture" width="200px" height="200px"/>
+<img src="sukuna.jpeg" alt="Profile Picture" width="200px" height="200px"/>
 
 
 <!--

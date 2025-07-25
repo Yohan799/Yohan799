@@ -1,5 +1,9 @@
+##Every code has something to say##
 ![Alt text](Profile.png)
-
+- 🔭 I’m currently working on Python based Projects
+- 📫 You can reach me: Yohangollapalli25@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: We are Peaky Blinders who peaks eyes towards code and never blindly types
 
 <!--
 **Yohan799/Yohan799** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

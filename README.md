@@ -1,4 +1,4 @@
-![Alt text](images/your-image.png)
+![Alt text](Profile.png)
 
 
 <!--

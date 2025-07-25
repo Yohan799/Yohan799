@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Python based Projects
 - 📫 You can reach me: Yohangollapalli25@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: We are Peaky Blinders who peaks *code* and never want to blindly type.
+- ⚡ Fun fact: We are Peaky Blinders who peaks into CODE and never want to blindly type.(cause we have problem with error)
 
 <!--
 **Yohan799/Yohan799** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

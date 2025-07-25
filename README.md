@@ -1,5 +1,5 @@
 **<p align="center">READ-EVALUATE-PRINT-LOOP</p>**
-![Alt text](Profile.png)
+![Alt text](Images/Profile.png)
 - 🔭 I’m currently working on Python based Projects
 - 📫 You can reach me: Yohangollapalli25@gmail.com
 - 😄 Pronouns: He/Him

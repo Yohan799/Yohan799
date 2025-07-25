@@ -1,4 +1,4 @@
-## Hello and Welcome to My Github Profile
+![Alt text](images/your-image.png)
 
 
 <!--
